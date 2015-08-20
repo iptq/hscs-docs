@@ -4,3 +4,4 @@ theme: readthedocs
 pages:
 - "Home": "index.md"
 - "OAuth": "oauth.md"
+- "API Endpoints": "endpoints.md"
